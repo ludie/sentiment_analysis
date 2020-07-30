@@ -1,7 +1,7 @@
 # Sentiment Analysis
+![https://www.revuze.it/blog/sentiment-analysis/](https://www.revuze.it/wp-content/uploads/2019/07/sentiment-analysis-Featured-768x432.png)
+#### From:https://www.revuze.it/blog/sentiment-analysis/
 Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis tools allow businesses to identify customer sentiment toward products, brands or services in online feedback.
-
-
 
 # Intro
 All the data is from the Kaggle platform, provided by Shopee.
